@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+
+    <!-- Navigation Drawer Menus -->
+    <string name="title_section1">Game Screen</string>
+    <string name="title_section2">Game Score</string>
+
+    <!-- Navigation  Drawer Action -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- Action Bar texts -->
+    <string name="highest_score">Highest: %s</string>
+    <string name="current_score">Score: %s</string>
+
+    <!-- Dialog Box texts -->
+    <string name="enter_name">Your Name</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+
+
+    <!-- User Message Texts -->
+    <string name="duplicate_entry_title">Duplicate Entry</string>
+    <string name="duplicate_entry_message">System found a duplicate entry. Do you want to Overwrite?</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+
+</resources>
