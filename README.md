@@ -1,0 +1,2 @@
+# MatchingCardMemoryGame
+It's a memory game to remember a card. 16 cards drawn on board, user needs to select a card. The card flip and show a image. Now user needs to select any other card. If both the cards matches, both cards will remove from board and increase your score by 2 points, else the second card flip back and decrease your points by 2 points. At the end of the game, application will save user name in local database. User can navigate to all other players score via navigation drawer.
